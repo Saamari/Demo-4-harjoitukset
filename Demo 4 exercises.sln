@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo 4 exercises", "Demo 4 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Perintä harjoitus", "Perintä harjoitus\Perintä harjoitus.csproj", "{B3AA446C-C7DD-4D54-9940-CE86FF9554DC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animal exercises", "Animal exercises\Animal exercises.csproj", "{05B70377-257B-4BBB-B612-55112C38CF07}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{B3AA446C-C7DD-4D54-9940-CE86FF9554DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B3AA446C-C7DD-4D54-9940-CE86FF9554DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B3AA446C-C7DD-4D54-9940-CE86FF9554DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05B70377-257B-4BBB-B612-55112C38CF07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05B70377-257B-4BBB-B612-55112C38CF07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05B70377-257B-4BBB-B612-55112C38CF07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05B70377-257B-4BBB-B612-55112C38CF07}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

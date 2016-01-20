@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Perintä_harjoitus
 {
-    class Person
+    class Person : Object
     {
         public string  FirstName {get; set;}
         public string LastName { get; set; }
